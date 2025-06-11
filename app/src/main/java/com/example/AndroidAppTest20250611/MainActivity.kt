@@ -36,7 +36,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         modifier = modifier
     )
 }
-//new testing phase 1
+//new testing phase 2
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
