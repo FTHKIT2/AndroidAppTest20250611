@@ -29,7 +29,6 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-//change seven
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
@@ -37,7 +36,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         modifier = modifier
     )
 }
-
+//new testing phase 1
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
